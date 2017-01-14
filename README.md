@@ -1,4 +1,4 @@
-# react-native-check-box
+# react-native-check-box (check/uncheck props sync version)
 
 [ ![release](https://img.shields.io/github/release/crazycodeboy/react-native-check-box.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/react-native-check-box/releases)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/react-native-check-box/pulls)
